@@ -3,7 +3,7 @@ public class Ejercicio1Funciones {
         System.out.println(suma(1, 2, 3));
 
         Coche miCoche = new Coche();
-        miCoche.sumarPuertas(4);
+        miCoche.sumarPuertas(6);
         System.out.println(miCoche.puertas);
 
     }
