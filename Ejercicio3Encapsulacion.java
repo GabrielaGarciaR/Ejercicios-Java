@@ -3,7 +3,7 @@ public class Ejercicio3Encapsulacion {
     public static void main(String[]args){
 
         Persona persona=new Persona();
-        persona.setNombre("Maria");
+        persona.setNombre("Gabriela");
         System.out.println("Nombre: " + persona.getNombre());
         persona.setEdad(25);
         System.out.println("Edad: " + persona.getEdad());
